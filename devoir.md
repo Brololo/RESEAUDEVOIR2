@@ -173,13 +173,13 @@ les trois messages d'établissement de la connexion
 peu importe qui est client et qui est serveur une fois la connexion établie
 mais au moment de l'établissement de la connexion, il y a trois messages particuliers qui sont échangés
 ces trois messages ont pour source le client
-![screen1](capture2réseau.jpg)
+![screen1](capture1réseau.JPG)
 la connexion qui s'établie entre mon pc (serveur) et la vm (client)
-![screen2](capture1réseau.jpg)
+![screen2](capture2réseau.JPG)
 On peut voir le message envoyé
-![screen3](capture3réseau.jpg)
+![screen3](capture3réseau.JPG)
 la connexion qui s'établie entre mon pc (client) et la vm (serveur)
-![screen4](capture4réseau.jpg)
+![screen4](capture4réseau.JPG)
 On peut voir le message envoyé (c'est le bonsoir en fin de ligne)
 
 N'AYANT PAS D'ENTREE ETHERNET SUR MON PC LA SUITE DE SE DEVOIR EST TIRE DE CELUI DE MARC TEXIER.
