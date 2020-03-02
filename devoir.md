@@ -173,9 +173,9 @@ les trois messages d'établissement de la connexion
 peu importe qui est client et qui est serveur une fois la connexion établie
 mais au moment de l'établissement de la connexion, il y a trois messages particuliers qui sont échangés
 ces trois messages ont pour source le client
-![screen1](capture1réseau.JPG)
+![screen1](capture2réseau.JPG)
 la connexion qui s'établie entre mon pc (serveur) et la vm (client)
-![screen2](capture2réseau.JPG)
+![screen2](capture1réseau.JPG)
 On peut voir le message envoyé
 ![screen3](capture3réseau.JPG)
 la connexion qui s'établie entre mon pc (client) et la vm (serveur)
